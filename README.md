@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nisha Ghariyal
+# Hi, I'm Nisha Ghariyal
 
 🎯 Data Analyst | Machine Learning Enthusiast  
 📍 Almora, Uttarakhand, India  
